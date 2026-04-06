@@ -1,4 +1,5 @@
-public class Stocks {
+package Arrays;
+public class BuyAndSellStock {
 
     // Function to calculate maximum profit
     public static int maxProfit(int[] prices) {

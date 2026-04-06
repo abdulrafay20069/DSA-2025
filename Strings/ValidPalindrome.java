@@ -1,6 +1,7 @@
+package Strings;
 import java.util.*;
 
-public class Palindromee {
+public class ValidPalindrome {
 
     public static boolean isPalindrome(String s) {
 

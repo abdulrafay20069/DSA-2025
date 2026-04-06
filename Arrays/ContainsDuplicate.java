@@ -1,3 +1,4 @@
+package Arrays;
 
 // Brute Force
 // public boolean containsDuplicate (int[] nums) {
@@ -13,7 +14,7 @@
 
 import java.util.HashSet;
 
-public class Duplicate {
+public class ContainsDuplicate {
 
     public static boolean containsDuplicate(int[] nums) {
         HashSet<Integer> set = new HashSet<>();

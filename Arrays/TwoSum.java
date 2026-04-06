@@ -1,7 +1,8 @@
+package Arrays;
 import java.util.Arrays;
 import java.util.HashMap;
 
-class Solution {
+class TwoSum {
     public int[] twoSum(int[] nums, int target){
         HashMap<Integer,Integer> map = new HashMap<>();
         for (int i = 0; i < nums.length; i++){
@@ -20,7 +21,7 @@ class Solution {
         int[] nums = {2, 7, 11, 15};
         int target = 9;
 
-        Solution obj = new Solution();
+        TwoSum obj = new TwoSum();
         int[] result = obj.twoSum(nums, target);
         System.out.println(Arrays.toString(result));
     }
