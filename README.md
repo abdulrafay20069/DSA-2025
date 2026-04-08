@@ -2,8 +2,6 @@
 
 Practicing data structures and algorithms in Java.
 
-## 📊 Problems Solved: 7
-
 ### Arrays (3)
 - Two Sum
 - Contains Duplicate
@@ -18,12 +16,12 @@ Practicing data structures and algorithms in Java.
 - First Bad Version
 
 ### HashMap
-(Coming soon)
+- Valid Anagram
+- Two Sum (optimized)
+- Longest Consecutive Sequence using o(n)
 
 ### Recursion
 (Coming soon)
 
-## 🎯 Goal
 
-Build foundation in DSA for technical interviews while focusing on AI application development.
 
