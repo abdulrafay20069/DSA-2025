@@ -18,10 +18,11 @@ Practicing data structures and algorithms in Java.
 ### HashMap
 - Valid Anagram
 - Two Sum (optimized)
+- Group Anagrams
 - Longest Consecutive Sequence using o(n)
 
 ### Recursion
-(Coming soon)
+- Fibonacci (Recursive and Iterative approach both)
 
 
 

@@ -1,4 +1,4 @@
-package Strings;
+package Recursion;
 
 public class Fibonacci {
 
